@@ -1,1 +1,2 @@
 # QUIZ-APPLICATION
+![Screenshot 2023-07-20 104502](https://github.com/aditisharma0311/QUIZ-APPLICATION/assets/114716809/5c5843d9-f9df-4761-837f-c8769b585e06)
